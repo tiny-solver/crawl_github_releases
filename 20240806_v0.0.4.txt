@@ -1,0 +1,31 @@
+Release Name: Flux and Hunyuan DiT
+Tag Name: v0.0.4
+Published at: 2024-08-06T21:29:54Z
+Body:
+Blog post: https://blog.comfy.org/august-2024-flux-support-new-frontend-for-loops-and-more/
+
+## What's Changed
+* Support for the new [Flux](https://comfyanonymous.github.io/ComfyUI_examples/flux/) and [Hunyuan Dit](https://comfyanonymous.github.io/ComfyUI_examples/hunyuan_dit/) models.
+* Fix "undo" incorrectly undoing text input by @webfiltered in https://github.com/comfyanonymous/ComfyUI/pull/4114
+* Change windows standalone URL to stable release. by @robinjhuang in https://github.com/comfyanonymous/ComfyUI/pull/4065
+* Add dpmpp_2s_ancestral as custom sampler by @silveroxides in https://github.com/comfyanonymous/ComfyUI/pull/4101
+* Active workflow use primary fg color by @christian-byrne in https://github.com/comfyanonymous/ComfyUI/pull/4090
+* Fix clip_g/clip_l mixup by @DrJKL in https://github.com/comfyanonymous/ComfyUI/pull/4168
+* Fix LoadAudio IS_CHANGED by @jn-jairo in https://github.com/comfyanonymous/ComfyUI/pull/4174
+* Lower SAG scale step for finer control by @fgdfgfthgr-fox in https://github.com/comfyanonymous/ComfyUI/pull/4158
+* Correct spelling 'token_weight_pars_t5' to 'token_weight_pairs_t5' by @silveroxides in https://github.com/comfyanonymous/ComfyUI/pull/4200
+* Fix Flux FP64 math on XPU by @a-One-Fan in https://github.com/comfyanonymous/ComfyUI/pull/4210
+* Don't cache index.html by @christian-byrne in https://github.com/comfyanonymous/ComfyUI/pull/4211
+* Stable release uses cached dependencies by @robinjhuang in https://github.com/comfyanonymous/ComfyUI/pull/4231
+* Change browser test CI python to 3.8 by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4234
+* Add format metadata to CLIP save to make compatible with diffusers sa… by @silveroxides in https://github.com/comfyanonymous/ComfyUI/pull/4233
+* Clone taesd with depth of 1 to reduce download size. by @robinjhuang in https://github.com/comfyanonymous/ComfyUI/pull/4232
+
+## New Contributors
+* @webfiltered made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4114
+* @silveroxides made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4101
+* @DrJKL made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4168
+* @fgdfgfthgr-fox made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4158
+* @a-One-Fan made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4210
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.3...v0.0.4

@@ -1,0 +1,10 @@
+Release Name: v0.0.2
+Tag Name: v0.0.2
+Published at: 2024-07-19T23:54:13Z
+Body:
+This release contains code before the 1305fb294ca69d0a44d88c5bf7ce8c682abd0c8a that broke some custom nodes. This should be safe to use for custom nodes that are not yet fixed.
+
+## What's Changed
+* New menu fixes - fix send to workflow by @pythongosssss in https://github.com/comfyanonymous/ComfyUI/pull/3909
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.1...v0.0.2

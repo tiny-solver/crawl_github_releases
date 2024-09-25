@@ -1,0 +1,17 @@
+Release Name: ComfyUI Standalone Portable Windows Build (For NVIDIA or CPU only)
+Tag Name: latest
+Published at: 2023-03-13T05:59:11Z
+Body:
+The builds in this release will always be relatively up to date with the latest code.
+
+The latest stable package can be found on the [latest stable release](https://github.com/comfyanonymous/ComfyUI/releases/latest) 
+
+[Download Link with stable pytorch 2.4.1 cu124](https://github.com/comfyanonymous/ComfyUI/releases/latest/download/ComfyUI_windows_portable_nvidia.7z)
+
+These builds should be completely standalone. If you extract and run them they should work right away and won't download anything.
+
+### Other builds
+
+This unstable nightly pytorch build is for people who want to test latest pytorch to see if it gives them a performance boost. Note that this package contains nightly torch 2.5 cu124 with python 3.12
+
+### [Download Link with unstable nightly pytorch](https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_or_cpu_nightly_pytorch.7z)

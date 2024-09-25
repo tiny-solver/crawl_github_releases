@@ -1,0 +1,10 @@
+Release Name: v0.0.8 Bug Fixes and xlabs flux controlnet.
+Tag Name: v0.0.8
+Published at: 2024-08-13T08:23:08Z
+Body:
+## What's Changed
+* Memory related bug fixes.
+* xlabs Flux controlnet implementation. by @comfyanonymous in https://github.com/comfyanonymous/ComfyUI/pull/4260
+
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.7...v0.0.8

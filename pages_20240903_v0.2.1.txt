@@ -1,0 +1,7 @@
+Release Name: v0.2.1 Lora fixes
+Tag Name: v0.2.1
+Published at: 2024-09-03T22:51:20Z
+Body:
+* Lower vram when applying loras on fp8 weights
+* Support onetrainer flux loras and newer glora format.
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.2.0...v0.2.1

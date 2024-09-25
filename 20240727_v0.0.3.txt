@@ -1,0 +1,26 @@
+Release Name: v0.0.3
+Tag Name: v0.0.3
+Published at: 2024-07-27T02:14:22Z
+Body:
+This release contains changes before [f87810c](https://github.com/comfyanonymous/ComfyUI/commit/f87810cd3ed2cc3922811422181d0572f98b103d) while added fixes to pin numpy to 1.x and torch to 2.3.1
+
+## What's Changed
+* Add `FrontendManager` to manage non-default front-end impl by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/3897
+* Fix python 3.8 compatibility in frontend_management.py by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4035
+* Make default hash lib configurable without code changes via CLI argument by @teward in https://github.com/comfyanonymous/ComfyUI/pull/3947
+* Monitor usage of `eval` with pylint by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4033
+* support clip-vit-large-patch14-336 by @wailovet in https://github.com/comfyanonymous/ComfyUI/pull/4042
+* Disable audio widget trying to get previews by @christian-byrne in https://github.com/comfyanonymous/ComfyUI/pull/4044
+* LoadAudio restores file value from workflow by @christian-byrne in https://github.com/comfyanonymous/ComfyUI/pull/4043
+* Fix/webp exif little endian by @greg-ww in https://github.com/comfyanonymous/ComfyUI/pull/4061
+* Add timestamp to execution messages by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4076
+* Supress frontend exception on unhandled message type by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4078
+* Add error message on unsupported control type in union controlnet by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4081
+
+## New Contributors
+* @teward made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/3947
+* @wailovet made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4042
+* @greg-ww made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4061
+Thank you @teward @wailovet @greg-ww, welcome to the Comfyverse!
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.2...v0.0.3

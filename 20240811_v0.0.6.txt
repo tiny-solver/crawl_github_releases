@@ -1,0 +1,13 @@
+Release Name: v0.0.6 Inference speed Hotfix.
+Tag Name: v0.0.6
+Published at: 2024-08-11T03:08:30Z
+Body:
+## What's Changed
+* Speed up inference speed on some workflows.
+* Speed up Hunyuan DiT inference.
+* FLUX: Added full Diffusers mapping for FLUX.1 schnell and dev.  by @jaretburkett in https://github.com/comfyanonymous/ComfyUI/pull/4302
+
+## New Contributors
+* @jaretburkett made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4302
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.5...v0.0.6

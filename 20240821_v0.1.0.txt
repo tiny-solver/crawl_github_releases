@@ -1,0 +1,29 @@
+Release Name: v0.1.0 New Frontend, New node execution engine, Performance improvements.
+Tag Name: v0.1.0
+Published at: 2024-08-21T18:54:52Z
+Body:
+## What's Changed
+* Update frontend to 1.2.30 by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4513
+* Execution Model Inversion by @guill in https://github.com/comfyanonymous/ComfyUI/pull/2666
+* Add model downloading endpoint. by @robinjhuang in https://github.com/comfyanonymous/ComfyUI/pull/4248
+* Add support for simple tooltips by @pythongosssss in https://github.com/comfyanonymous/ComfyUI/pull/3842
+* Remove legacy ui test files by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4316
+* Use new TS frontend uncompressed by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4379
+* Implement support for taef1 latent previews by @mturnshek in https://github.com/comfyanonymous/ComfyUI/pull/4409
+* Update frontend to 1.2.26 by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4415
+* Add Flux model support for InstantX style controlnet residuals by @EeroHeikkinen in https://github.com/comfyanonymous/ComfyUI/pull/4444
+* Add new shortcuts to readme by @christian-byrne in https://github.com/comfyanonymous/ComfyUI/pull/4442
+* Update README to include frontend section by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4468
+* Update issue template config.yml to direct frontend issues to frontend repos by @yoland68 in https://github.com/comfyanonymous/ComfyUI/pull/4486
+* Update README.md (Add shield badges) by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4490
+* Add optional deprecated/experimental flag to node class by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4506
+* Add GET /internal/files.  by @robinjhuang in https://github.com/comfyanonymous/ComfyUI/pull/4295
+* add a get models list api route by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4519
+* Replace use of .view with .reshape by @Baughn in https://github.com/comfyanonymous/ComfyUI/pull/4522
+
+## New Contributors
+* @mturnshek made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4409
+* @EeroHeikkinen made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4444
+* @Baughn made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4522
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.8...v0.1.0

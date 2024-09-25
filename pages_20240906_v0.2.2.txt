@@ -1,0 +1,14 @@
+Release Name: v0.2.2
+Tag Name: v0.2.2
+Published at: 2024-09-06T00:01:40Z
+Body:
+## What's Changed
+* Update frontend to v1.2.47 by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4798
+* Mistoline Flux controlnet support
+* Stable standalone package updated to pytorch 2.4.1 cu124
+* Make live preview size a configurable launch argument by @silveroxides in https://github.com/comfyanonymous/ComfyUI/pull/4649
+* Add emb_patch support to UNetModel forward by @Kosinkadink in https://github.com/comfyanonymous/ComfyUI/pull/4779
+* Nodes using UNIQUE_ID as input are NOT_IDEMPOTENT by @guill in https://github.com/comfyanonymous/ComfyUI/pull/4793
+
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.2.1...v0.2.2

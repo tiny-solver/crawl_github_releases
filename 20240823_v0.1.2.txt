@@ -1,0 +1,12 @@
+Release Name: v0.1.2 Dora hotfix
+Tag Name: v0.1.2
+Published at: 2024-08-23T09:22:43Z
+Body:
+## What's Changed
+* Added SD15_Inpaint_Diffusers model config for Model_detection.py by @Scorpinaus in https://github.com/comfyanonymous/ComfyUI/pull/4565
+* Pytorch XPU check overhaul and other small XPU backend changes by @simonlui in https://github.com/comfyanonymous/ComfyUI/pull/4562
+
+## New Contributors
+* @Scorpinaus made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4565
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.1.1...v0.1.2

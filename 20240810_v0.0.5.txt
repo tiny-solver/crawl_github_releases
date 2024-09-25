@@ -1,0 +1,20 @@
+Release Name: v0.0.5 Flux improvements and Hunyuan DiT controlnets.
+Tag Name: v0.0.5
+Published at: 2024-08-10T01:58:10Z
+Body:
+## What's Changed
+* Faster Flux Inference
+* Add type hints to folder_paths.py by @PhilWun in https://github.com/comfyanonymous/ComfyUI/pull/4191
+* Add full CI test matrix GitHub Workflow by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4274
+* add GitHub workflow for CI tests of PRs by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4275
+* minor fix on copypasta action name by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4276
+* PullRequest CI Run: use pull_request_target to allow the CI Dashboard to work by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4277
+* feat: add support for HunYuanDit ControlNet by @CrazyBoyM in https://github.com/comfyanonymous/ComfyUI/pull/4245
+* Update controlnet.py to fix the default controlnet weight as constant by @TTPlanetPig in https://github.com/comfyanonymous/ComfyUI/pull/4285
+
+## New Contributors
+* @PhilWun made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4191
+* @CrazyBoyM made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4245
+* @TTPlanetPig made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4285
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.4...v0.0.5

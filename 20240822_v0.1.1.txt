@@ -1,0 +1,15 @@
+Release Name: v0.1.1 Memory and other issues fixed.
+Tag Name: v0.1.1
+Published at: 2024-08-22T22:21:04Z
+Body:
+## What's Changed
+* Fix models sometimes not being unloaded.
+* Fixed issue with loras in some situations.
+* Fix a bug where cached outputs affected IS_CHANGED by @guill in https://github.com/comfyanonymous/ComfyUI/pull/4535
+* Generalize MacOS version check for force-upcast-attention by @davidbenton in https://github.com/comfyanonymous/ComfyUI/pull/4548
+* Fix task.status.status_str caused by #2666 by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4551
+
+## New Contributors
+* @davidbenton made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4548
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.1.0...v0.1.1

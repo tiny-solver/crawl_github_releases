@@ -1,0 +1,15 @@
+Release Name: v0.0.7 Bugfixes.
+Tag Name: v0.0.7
+Published at: 2024-08-12T22:46:46Z
+Body:
+## What's Changed
+* Various bug fixes related to memory management and patching.
+* alternative to `load_checkpoint_guess_config` that accepts a loaded state dict by @ljleb in https://github.com/comfyanonymous/ComfyUI/pull/4249
+* Automatically link the Comfy CI page on PRs by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4326
+* Add `DS_Store` to gitignore by @vovsemenv in https://github.com/comfyanonymous/ComfyUI/pull/4324
+
+## New Contributors
+* @ljleb made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4249
+* @vovsemenv made their first contribution in https://github.com/comfyanonymous/ComfyUI/pull/4324
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.0.6...v0.0.7

@@ -1,0 +1,20 @@
+Release Name: v0.2.0
+Tag Name: v0.2.0
+Published at: 2024-09-01T22:36:40Z
+Body:
+## What's Changed
+* InstantX Flux controlnet support.
+* Memory related tweaks and improvements.
+* Update ComfyUI_frontend to 1.2.40 by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4691
+* Add download_path for model downloading progress report. by @robinjhuang in https://github.com/comfyanonymous/ComfyUI/pull/4621
+* Cleanup empty dir if frontend zip download failed by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4574
+* Support weight padding on diff weight patch by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4576
+* fix: useless loop & potential undefined variable by @ltdrdata in https://github.com/comfyanonymous/ComfyUI/pull/4656
+* swap legacy sdv15 link by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4682
+* Get logs endpoint & system_stats additions by @huchenlei in https://github.com/comfyanonymous/ComfyUI/pull/4690
+* feat: return import_failed from init_extra_nodes function by @badayvedat in https://github.com/comfyanonymous/ComfyUI/pull/4694
+* add github action to automatically handle stale user support issues by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4683
+* fix typo in stale-issues by @mcmonkey4eva in https://github.com/comfyanonymous/ComfyUI/pull/4735
+
+
+**Full Changelog**: https://github.com/comfyanonymous/ComfyUI/compare/v0.1.3...v0.2.0
